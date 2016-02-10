@@ -16,7 +16,7 @@ Compiler la librairie
 
 ***
 
-	- Pour les autres types de compilation (Debuggage seulement, statique
+  - Pour les autres types de compilation (Debuggage seulement, statique
 		seulement, etc.), voir le fichier Makefile.
 
 
