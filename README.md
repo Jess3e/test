@@ -2,7 +2,7 @@ Librairie Arbre Binaire
 ==========================================
 
 Cette librairie implémente un arbre binaire qui contient une valeur et qui peut 
-avoir aucun enfant, un enfant ou deux enfants. C'est enfants peuvent à leur tour
+avoir aucun enfant, un enfant ou deux enfants. Ces enfants peuvent à leur tour
 avoir leurs enfants et une valeur.
 
 Compiler la librairie
